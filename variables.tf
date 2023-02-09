@@ -4,3 +4,6 @@ variable "refrg" {
 variable "refloc" {
   default = "centralindia"
 }
+variable "refvnet" {
+  default = "vnet"
+}
